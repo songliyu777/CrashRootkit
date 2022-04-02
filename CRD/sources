@@ -1,0 +1,48 @@
+# $Id$
+TARGETNAME=YYFD
+TARGETPATH=obj
+TARGETTYPE=DRIVER
+
+
+# Create browse info
+#BROWSER_INFO=1
+#BROWSERFILE=<some path>
+
+# Additional defines for the C/C++ preprocessor
+C_DEFINES=$(C_DEFINES)
+
+SOURCES=CRD.cpp \
+		PETools_R0.cpp \
+		Log.cpp	\
+		Platform.cpp \
+		KeSysFun.cpp \
+		Dispatch.cpp \
+		Relocate.cpp \
+		FuncAddrValid.cpp \
+		MyListEntry.cpp \
+		CRD_Process.cpp \
+		CRD_KernelHook.cpp \
+		CRD_Thread.cpp \
+		CRD_ProcessModule.cpp \
+		CRD_Memory.cpp \
+		CRD_KernelModule.cpp \
+		CRD_Input.cpp \
+		CRD_IDT.cpp \
+		CRD_SSDT.cpp \
+		CRD_DpcTimer.cpp \
+		CRD_IoTimer.cpp \
+		CRD_Hook.cpp \
+		CRD_HookFunction.cpp \
+		CRD_HideKd.cpp \
+		CRD_Object.cpp \
+		CRD_ProtectTools.cpp \
+		CRD_BsodHook.cpp \
+		CRD_HideWindows.cpp \
+		CRD_IoControl.cpp \
+		CRD_SystemNotify.cpp \
+		CRD_KeSpeed.cpp \
+		CRD_KeException.cpp \
+		CRD_ReplaceFunction.cpp \
+		CRD_VtAssembly.cpp \
+		CRD_VT.cpp \
+        drvversion.rc

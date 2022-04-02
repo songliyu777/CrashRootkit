@@ -1,0 +1,122 @@
+//{{NO_DEPENDENCIES}}
+// Microsoft Visual C++ generated include file.
+// Used by CrashRootkit.rc
+//
+#define IDD_ABOUTBOX                    100
+#define IDP_OLE_INIT_FAILED             100
+#define IDD_CRVIEW                      101
+#define IDR_SSDTTYPE                    101
+#define IDD_SSDTVIEW                    102
+#define IDR_SSDTSHADOWTYPE              102
+#define IDD_KERNELHOOKVIEW              103
+#define IDR_KERNELHOOKTYPE              103
+#define IDD_PROCESSVIEW                 104
+#define IDR_PROCESSTYPE                 104
+#define IDD_MODULESPAGE                 105
+#define IDR_KERNELMODULETYPE            105
+#define IDD_THREADSPAGE                 106
+#define IDR_DPCTIMERTYPE                106
+#define IDD_HOOKCHECKPAGE               107
+#define IDR_IOTIMERTYPE                 107
+#define IDR_POPUP_EDIT                  119
+#define ID_STATUSBAR_PANE1              120
+#define ID_STATUSBAR_PANE2              121
+#define IDS_STATUS_PANE1                122
+#define IDS_STATUS_PANE2                123
+#define IDS_TOOLBAR_STANDARD            124
+#define IDS_TOOLBAR_CUSTOMIZE           125
+#define ID_VIEW_CUSTOMIZE               126
+#define IDR_MAINFRAME                   128
+#define IDR_MAINFRAME_256               129
+#define IDR_CrashRootkitTYPE            130
+#define ID_WINDOW_MANAGER               131
+#define IDS_WINDOWS_MANAGER             132
+#define IDS_TOOLBAR_SCRIPT              140
+#define IDR_THEME_MENU                  200
+#define ID_SET_STYLE                    201
+#define ID_VIEW_APPLOOK_WIN_2000        210
+#define ID_VIEW_APPLOOK_OFF_XP          211
+#define ID_VIEW_APPLOOK_WIN_XP          212
+#define ID_VIEW_APPLOOK_OFF_2003        213
+#define ID_VIEW_APPLOOK_VS_2005         214
+#define ID_VIEW_APPLOOK_OFF_2007_BLUE   215
+#define ID_VIEW_APPLOOK_OFF_2007_BLACK  216
+#define ID_VIEW_APPLOOK_OFF_2007_SILVER 217
+#define ID_VIEW_APPLOOK_OFF_2007_AQUA   218
+#define IDS_EDIT_MENU                   306
+#define IDS_DPCTIMER_MENU               307
+#define IDS_IOTIMER_MENU                308
+#define IDS_KERNELHOOK_MENU             309
+#define IDD_DPCTIMERVIEW                310
+#define IDS_SSDT_MENU                   310
+#define IDD_IOTIMERVIEW                 311
+#define IDS_KERNELMODULE_MENU           311
+#define IDD_PROGRESS_DLG                312
+#define IDS_PROCESS_MENU                312
+#define IDD_KERNELMODULEVIEW            313
+#define IDR_SCRIPTEBAR                  313
+#define IDS_THREAD_MENU                 314
+#define IDR_DPCTIMER_MENU               315
+#define IDS_HOOKCHECK_MENU              315
+#define IDR_IOTIMER_MENU                316
+#define IDR_KERNELHOOK_MENU             317
+#define IDR_SSDT_MENU                   318
+#define IDR_KERNELMODULE_MENU           319
+#define IDR_PROCESS_MENU                320
+#define IDR_THREAD_MENU                 321
+#define IDR_HOOKCHECK_MENU              322
+#define IDD_LOGINDIALOGDIALOG           326
+#define IDR_HTML_LOGINDIALOG            327
+#define IDD_FLASH_DLG                   327
+#define IDC_SSDTTABLE                   1000
+#define IDC_KERNELHOOKTABLE             1001
+#define IDC_PROCESSTABLE                1002
+#define IDC_PROCESSTAB                  1003
+#define IDC_MODULESTABLE                1004
+#define IDC_THREADSTABLE                1005
+#define IDC_HOOKCHECKTABLE              1006
+#define IDC_PROGRESS_BAR                1007
+#define IDC_KERNELMODULETABLE           1008
+#define IDC_DPCTIMERTABLE               1008
+#define IDC_IOTIMERTABLE                1008
+#define IDC_STATIC_FLASH                1011
+#define ID_RUNSCRIPT                    32771
+#define ID_CLEAROUTPUT                  32772
+#define ID_DPCTIMERMENU_FLASH           32774
+#define ID_DPCTIMERMENU_                32775
+#define ID_DPCTIMERMENU_REFRESH         32776
+#define ID_IOTIMER_REFRESH              32778
+#define ID_IOTIMERMENU_REFRESH          32779
+#define ID_KERNELHOOK_REFRESH           32781
+#define ID_SSDTMENU_REFRESH             32783
+#define ID_KERNELMODULEMENU_REFRESH     32785
+#define ID_PROCESSEMENU_REFRESH         32787
+#define ID_PROCESSMENU_REFRESH          32788
+#define IDR_PROCCESS_MENU_REFRESH       32789
+#define ID_PROCESSEMENU_TERMINAL        32791
+#define ID_PROCESSE_MENU_TERMINAL       32792
+#define ID_PROCESSE_MENU_TERMINATE      32793
+#define ID_DPCTIMERMENU_KILL            32795
+#define ID_IOTIMERMENU_STOP             32796
+#define ID_IOTIMERMENU_START            32797
+#define ID_SSDTMENU_ALL                 32800
+#define ID_SSDTMENU_HOOK                32801
+#define ID_SSDTMENU_RECOVER             32803
+#define ID_KERNELHOOK_RECOVER           32805
+#define ID_THREAD_REFRESH               32808
+#define ID_THREAD_TERMINATE             32809
+#define ID_HOOKCHECKMENU_REFRESH        32812
+#define ID_HOOKCHECKMENU_RECOVER        32813
+#define ID_HOOKCHECK_RECOVER            32814
+#define ID_HOOKCHECK_REFRESH            32815
+
+// Next default values for new objects
+// 
+#ifdef APSTUDIO_INVOKED
+#ifndef APSTUDIO_READONLY_SYMBOLS
+#define _APS_NEXT_RESOURCE_VALUE        332
+#define _APS_NEXT_COMMAND_VALUE         32817
+#define _APS_NEXT_CONTROL_VALUE         1012
+#define _APS_NEXT_SYMED_VALUE           329
+#endif
+#endif
